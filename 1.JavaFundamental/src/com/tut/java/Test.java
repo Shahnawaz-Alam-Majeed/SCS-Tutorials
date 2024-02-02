@@ -14,6 +14,7 @@ class Test{
 			System.out.println(s1);
 			}
 		System.out.println("Total no of file "+count);
+		System.out.println("Hello ");
 		}
 
 }
